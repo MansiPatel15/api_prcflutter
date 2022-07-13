@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907402928557",
+    "project_id": "practice-d217c",
+    "storage_bucket": "practice-d217c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907402928557:android:b2c0f074752689789e0124",
+        "android_client_info": {
+          "package_name": "karon.com.example.api_prc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907402928557-jdopn989mm7qja5glpn9fmngqd2ct24m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAdV5kHOmmPnqQC0WhCDW3RZK0TWYViY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907402928557-jdopn989mm7qja5glpn9fmngqd2ct24m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
